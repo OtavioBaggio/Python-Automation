@@ -1,5 +1,5 @@
-# Python Automation
-## Sobre               
+# 🐍 Python Automation 🤖
+               
 Este repositório contém uma coleção de Projetos em Python, realizados no curso de Jornada Python, da Hashtag treinamentos, focado em automação de tarefas. Ele inclui ferramentas e exemplos para scraping de dados, manipulação de arquivos, automação de tarefas repetitivas e integração com APIs. O objetivo é fornecer soluções práticas para otimizar fluxos de trabalho e aumentar a produtividade.
 
 ## Projetos do Repositório

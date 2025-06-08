@@ -19,6 +19,15 @@ Aplicações web interativas criadas com o framework `Streamlit`. Permite ao usu
 - Chatbot com IA integrado com a OpenAI.
 - Interfaces simples para entrada de dados e visualização de respostas em tempo real.
 
+## Tecnologias Utilizadas
+
+- **Python 3.12+**
+- **Pandas**, **NumPy**, **Matplotlib** – Análise de dados
+- **Selenium**, **PyAutoGUI** – Automação de tarefas
+- **BeautifulSoup** – Web Scraping
+- **Streamlit** – Criação de interfaces web simples
+- **OpenAI API** – Integração com modelos de linguagem
+
 ## Como Executar
 
 1. **Clone o repositório**:
@@ -50,15 +59,6 @@ Aplicações web interativas criadas com o framework `Streamlit`. Permite ao usu
      streamlit run nome_do_arquivo.py
      ```
 
-## Tecnologias Utilizadas
-
-- **Python 3.12+**
-- **Pandas**, **NumPy**, **Matplotlib** – Análise de dados
-- **Selenium**, **PyAutoGUI** – Automação de tarefas
-- **BeautifulSoup** – Web Scraping
-- **Streamlit** – Criação de interfaces web simples
-- **OpenAI API** – Integração com modelos de linguagem
-
 ## Contribuição
 
 Contribuições são bem-vindas!  
@@ -73,7 +73,7 @@ Email: otavio.baggiorosul@gmail.com / jose.baggio@ufn.edu.br
 
 ## 📜 Certificado de Conclusão
 
-![Certificado Jornada Python]
+![Image](https://github.com/user-attachments/assets/35b9f597-5626-4579-aa76-b95f619fffda)
 
 ## Licença
 
